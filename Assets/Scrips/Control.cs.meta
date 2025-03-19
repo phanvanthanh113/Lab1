@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7a42475f6f007e548b4665af82d8585c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefabCircle: {instanceID: 0}
+  - prefabTriangle: {instanceID: 0}
+  - prefabSquare: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
